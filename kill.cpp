@@ -5,20 +5,11 @@ kill::kill()
 
 }
 
-void kill::special_combine(Blank *b[8][8], Blank *click, int mode)
+void kill::eliminate(Blank *b[8][8], int r, int c)
 {
 
 }
 
-void kill::elimlnate(Blank *b[8][8], Blank *click)
-{
-
-}
-
-int kill::check(Blank *b[8][8], Blank *click)
-{
-
-}
 kill::~kill()
 {
 

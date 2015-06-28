@@ -16,14 +16,26 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     blank.cpp \
     kill.cpp \
-    star.cpp
+    star.cpp \
+    column.cpp \
+    row.cpp \
+    nineblock.cpp \
+    rule.cpp \
+    result.cpp
 
 HEADERS  += mainwindow.h \
     blank.h \
     kill.h \
-    star.h
+    star.h \
+    column.h \
+    row.h \
+    nineblock.h \
+    rule.h \
+    result.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    rule.ui \
+    result.ui
 
 RESOURCES += \
     pic.qrc
