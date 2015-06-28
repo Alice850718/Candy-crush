@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1_b.png</file>
+        <file>1_col.png</file>
+        <file>1_normal.png</file>
+        <file>1_row.png</file>
+        <file>2_b.png</file>
+        <file>2_col.png</file>
+        <file>2_normal.png</file>
+        <file>2_row.png</file>
+        <file>3_b.png</file>
+        <file>3_col.png</file>
+        <file>3_normal.png</file>
+        <file>3_row.png</file>
+        <file>4_b.png</file>
+        <file>4_col.png</file>
+        <file>4_normal.png</file>
+        <file>4_row.png</file>
+        <file>B1_b.png</file>
+        <file>B1_col.png</file>
+        <file>B1_normal.png</file>
+        <file>B1_row.png</file>
+        <file>B2_b.png</file>
+        <file>B2_col.png</file>
+        <file>B2_normal.png</file>
+        <file>B2_row.png</file>
+        <file>B3_b.png</file>
+        <file>B3_col.png</file>
+        <file>B3_normal.png</file>
+        <file>B3_row.png</file>
+        <file>B4_b.png</file>
+        <file>B4_col.png</file>
+        <file>B4_normal.png</file>
+        <file>B4_row.png</file>
+        <file>star.png</file>
+    </qresource>
+</RCC>
